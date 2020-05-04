@@ -13,3 +13,6 @@ Para compilar:
 
 Y para construir el build, recuerden:
 `npm run build`
+
+
+This site is published at https://paulmejiamendoza.github.io/webpack-starter/
